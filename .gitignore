@@ -1,5 +1,3 @@
 node_modules/
 # ignorar todos los ficheros que empiezen por la letra Z, fichero terminado con extension .env y por ultimo un directorio superior artifacts
-z.
-*.env
-/artifacts/
+.env, /artifacts/, z*
